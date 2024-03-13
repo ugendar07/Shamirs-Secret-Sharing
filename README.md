@@ -17,5 +17,4 @@ The `SecretSharing` contract consists of the following main functions:
 
 The smart contract is tested using JavaScript tests written with the Truffle testing framework. The tests cover various functionalities of the contract, including calculating Y values, generating shares, computing GCD, adding fractions, reducing fractions, and reconstructing the secret.
 
-To run the tests, make sure you have Truffle installed and configured with a suitable Ethereum network. Then, execute the following command:
-
+ 
